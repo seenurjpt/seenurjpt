@@ -10,7 +10,7 @@
 
 - 🌱 I’m a **frontend web developer**.
 
-- 📫 How to reach me **sunnyrajput200127@gmail.com**
+- 📫 How to reach me **rajputsunny1027@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
