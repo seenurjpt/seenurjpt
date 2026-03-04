@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sunny%20Rajput&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Engineer%20%E2%80%A2%20React%20Specialist%20%E2%80%A2%20UI%20Craftsman&descAlignY=55&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sunny%20Rajput&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer%20%E2%80%A2%20React%20Specialist%20%E2%80%A2%20UI%20Craftsman&descAlignY=55&descSize=16"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+pixel-perfect+interfaces+%F0%9F%8E%A8;React.js+%2B+Next.js+Enthusiast+%E2%9A%A1;3%2B+Years+of+Frontend+Expertise+%F0%9F%9A%80;Turning+Figma+designs+into+reality+%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;React.js+%2B+Next.js+%2B+Node.js+%E2%9A%A1;3%2B+Years+of+Full+Stack+Expertise+%F0%9F%92%AA;MongoDB+%7C+Express+%7C+React+%7C+Node+%F0%9F%94%A5;Turning+Figma+designs+into+reality+%E2%9C%A8" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -13,6 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=seenurjpt&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
   <img src="https://img.shields.io/github/followers/seenurjpt?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/>
+  &nbsp;
+  <img src="https://badges.pufler.dev/repos/seenurjpt?style=for-the-badge&color=0e75b6&label=Repositories" alt="Repositories"/>
 </p>
 
 </div>
@@ -24,7 +26,7 @@
 ```ts
 const sunny: Developer = {
   name:       "Sunny Rajput",
-  role:       "Frontend Web Developer",
+  role:       "MERN Stack Developer",
   location:   "Ahmedabad, Gujarat, India 🇮🇳",
   experience: "3+ years",
   company:    "Hornbook Technologies Pvt. Ltd.",
@@ -84,93 +86,6 @@ const sunny: Developer = {
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### 🏥 Nurse.io — Healthcare Staffing Platform
-> Real-time nurse shift booking & facility management system
-
-**Tech Stack:**
-`React.js` `Redux Toolkit` `RESTful APIs` `JWT Auth`
-
-**Highlights:**
-- ⚡ Code splitting & lazy loading for performance
-- 🔐 Role-based access control
-- ♿ WCAG accessibility standards
-- 📊 Real-time schedule & shift dashboards
-
-</td>
-<td width="50%">
-
-### 🏦 Core Banking Product
-> Enterprise-grade frontend for bank staff operations
-
-**Tech Stack:**
-`React.js` `ES6` `Context API` `Jest` `Microservices`
-
-**Highlights:**
-- 🏗️ Micro-frontend architecture
-- 🧪 Unit tested with Jest
-- 📋 Loan product & campaign configuration UI
-- 🔒 Banking-grade security standards
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 CRM System
-> Role-based customer & sales workflow management
-
-**Tech Stack:**
-`React.js` `Zustand` `Tailwind CSS` `Shadcn UI` `Node.js` `MySQL`
-
-**Highlights:**
-- 📧 Zoho email integration with threaded conversations
-- 👥 Admin & BDE dashboards
-- 🔄 Automated follow-up workflows
-- 📇 Full CRUD contact management
-
-</td>
-<td width="50%">
-
-### 💡 What I'm Working On
-> Always building something new!
-
-**Current Interests:**
-- 🔥 Next.js App Router & Server Components
-- 🤖 AI-powered UI integrations
-- 🎯 Web performance optimization
-- 📱 Progressive Web Apps (PWA)
-
-*More projects coming soon...*
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 💼 Professional Journey
-
-```
-2022 ──────────────────────────────────────────────────── Present
-  │
-  └── 🏢 Hornbook Technologies Pvt. Ltd.  [Ahmedabad, India]
-          │
-          ├── 🚀  Frontend MERN Stack Developer
-          ├── 🎨  Figma → Pixel-perfect UI conversions
-          ├── 🔗  RESTful API Integration (Node.js + Express)
-          ├── 🧑‍🏫  Mentored junior devs & led code reviews
-          └── ⚡  Performance optimization across all products
-```
 
 ---
 
@@ -178,7 +93,7 @@ const sunny: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seenurjpt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seenurjpt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&show=reviews,discussions_started,prs_merged"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seenurjpt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
@@ -234,7 +149,7 @@ const sunny: Developer = {
 
 ### 💬 Quote I Live By
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"When you're the smartest person in the room, then you're in the wrong room."*
 
 <br/>
 
